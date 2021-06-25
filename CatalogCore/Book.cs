@@ -8,11 +8,11 @@ namespace CatalogCore
 {
     public class Book: MainElement
     {
-        protected string authors;
+        protected string authors { private set; get; }
 
         protected string illustrator { private set; get; } = "отстутствует";
 
-        protected string publishingHouse{ private set; get;}
+        protected string publishingHouse { private set; get;}
 
         protected int yearOfPublication { private set; get; }
 
