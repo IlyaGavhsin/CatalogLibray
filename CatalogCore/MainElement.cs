@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CatalogCore
 {
-    class MainElement
+    public class MainElement
     {
         public string Name { private set;  get; }
 

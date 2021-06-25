@@ -6,8 +6,5 @@
         xmlns:local="clr-namespace:CatalogLibray"
         mc:Ignorable="d"
         Title="MainWindow" Height="1000" Width="1000" HorizontalAlignment="Center" VerticalAlignment="Center">
-    <Grid>
-        <TextBlock x:Name="Input" HorizontalAlignment="Center" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Center" Height="38" Width="155" TextAlignment="Center" LineHeight="72"/>
-
-    </Grid>
+    <Grid/>
 </Window>

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CatalogCore
 {
-    class Book: MainElement
+    public class Book: MainElement
     {
         protected string authors;
 
